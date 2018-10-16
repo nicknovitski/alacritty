@@ -56,6 +56,12 @@ cargo install cargo-deb
 cargo deb --install
 ```
 
+### NixOS (or nix on macOS)
+
+```sh
+nix-env -iA alacritty
+```
+
 ### openSUSE Tumbleweed Linux
 
 ```sh
